@@ -2,44 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e8b589a7-2618-4ace-94ad-a467dfc4d5ec" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/font-awesome.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/style.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/FontAwesome.otf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/Raleway/OFL.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/Raleway/README.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/Raleway/Raleway-Italic-VariableFont_wght.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/Raleway/Raleway-VariableFont_wght.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/Raleway/static/Raleway-Black.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/Raleway/static/Raleway-BlackItalic.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/Raleway/static/Raleway-Bold.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/Raleway/static/Raleway-BoldItalic.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/Raleway/static/Raleway-ExtraBold.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/Raleway/static/Raleway-ExtraBoldItalic.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/Raleway/static/Raleway-ExtraLight.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/Raleway/static/Raleway-ExtraLightItalic.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/Raleway/static/Raleway-Italic.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/Raleway/static/Raleway-Light.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/Raleway/static/Raleway-LightItalic.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/Raleway/static/Raleway-Medium.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/Raleway/static/Raleway-MediumItalic.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/Raleway/static/Raleway-Regular.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/Raleway/static/Raleway-SemiBold.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/Raleway/static/Raleway-SemiBoldItalic.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/Raleway/static/Raleway-Thin.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/Raleway/static/Raleway-ThinItalic.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.eot" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/bokeh_car_lights_bg.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/dark_tint.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/pic02.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/pic03.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/pic04.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/pic07.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/pic08.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/profile_placeholder.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/index.html" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -106,9 +69,10 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="10" />
-    <option name="width" value="1910" />
-    <option name="height" value="789" />
+    <option name="x" value="119" />
+    <option name="y" value="599" />
+    <option name="width" value="1900" />
+    <option name="height" value="796" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -194,16 +158,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1607179437761</updated>
-      <workItem from="1607179439437" duration="20472000" />
+      <workItem from="1607179439437" duration="21152000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20472000" />
+    <option name="totallyTimeSpent" value="21152000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="27" width="1920" height="1053" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="0" width="1920" height="1080" extended-state="6" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2497332" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -213,7 +176,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31987247" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
